@@ -1,2 +1,2 @@
-# Small-Misc.-Programs-
-Small miscellaneous programs, all in C++
+# Small_Misc_Programs
+Source code for small miscellaneous programs, all in C++.
